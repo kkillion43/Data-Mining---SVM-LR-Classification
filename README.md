@@ -1,6 +1,6 @@
 # Data Mining - Classification and LR
-<hr>
-Classification and Logistic Regression Modeling
+<br>
+
 ___Data Scientist: Kyle Killion, Tracie Scott, Vinh Le___
 
 ## Business Understanding
