@@ -1,9 +1,10 @@
 # Data Mining - Classification and LR
+<hr>
 Classification and Logistic Regression Modeling
-
-
-### Business Understanding
 ___Data Scientist: Kyle Killion, Tracie Scott, Vinh Le___
+
+## Business Understanding
+
 
 The project data is from the Open University Learning Analytics Dataset (OULAD) made available on the University of California, Irvine, (UCI), Machine Learning site https://archive.ics.uci.edu/ml/datasets.html. OULAD contains data for seven selected courses, the students registered for the courses, and the students’ interactions with the Virtual Learning Environment (VLE) for those courses.
 The Open University currently collects similar data on an on-going basis as input to algorithms they developed to identify students at risk for failing a course. Identification of at-risk students then triggers automated intervention measures to encourage behavior that would create success. For example, the algorithm might identify a student with low grades on intermediate assessments (quizzes). That student may be sent an automated email reminder about available tutoring options. The goal of the data collection effort is to maximize student success, which has numerous benefits for the University.
@@ -17,7 +18,7 @@ Prediction of student pass/ no pass the course after course completion (goal: 90
 Prediction of student pass/ no pass the course after 30 days of commencement (goal: 75% accuracy)
 
 
-### Application for the University:
+## Application for the University:
 If there are socio-economic factors impacting success, can the univeristy adopt strategies to mitigate those factors?
 To identify behaviors that maximize the opportunity for success and generally promote those behaviors with students
 To identify students at risk based on general patterns and perform outreach to drive awareness of 1) recommended study behaviors and 3) available resources to assist the student
