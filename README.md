@@ -17,7 +17,7 @@ Prediction of student pass/ no pass the course after course completion (goal: 90
 Prediction of student pass/ no pass the course after 30 days of commencement (goal: 75% accuracy)
 
 
-### Application for the university:
+### Application for the University:
 If there are socio-economic factors impacting success, can the univeristy adopt strategies to mitigate those factors?
 To identify behaviors that maximize the opportunity for success and generally promote those behaviors with students
 To identify students at risk based on general patterns and perform outreach to drive awareness of 1) recommended study behaviors and 3) available resources to assist the student
