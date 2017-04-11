@@ -1,4 +1,4 @@
-# Data-Mining- Classification and LR
+# Data Mining - Classification and LR
 Classification and Logistic Regression Modeling
 
 
